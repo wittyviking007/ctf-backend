@@ -1,0 +1,17 @@
+.signinForm {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.signinForm input {
+    margin-bottom: 10px;
+}
+
+.signinForm button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}

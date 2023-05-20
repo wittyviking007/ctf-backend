@@ -1,0 +1,17 @@
+.signupForm {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.signupForm input {
+    margin-bottom: 10px;
+}
+
+.signupForm button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
